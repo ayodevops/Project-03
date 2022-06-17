@@ -1,4 +1,4 @@
-## Project 3 Documentation
+# Project 3 Documentation
 
 ![sudo-apt-install](/images/sudo-apt-install.PNG)
 
